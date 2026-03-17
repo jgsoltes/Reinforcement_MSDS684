@@ -1,1 +1,1 @@
-Labs shown in order of week completed.
+Repository for Reinforcement Learning (MSDS684) weekly labs, shown in order of week completed.
